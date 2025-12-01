@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Take Me Home",
+  "base_artist": "(sic)boy",
+  "createdAt": "2025-12-01T06:35:14.929503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Restless Road feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Take_Me_Home_Restless_Road_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Restless Road",
+      "has_synced": false,
+      "path": "select/02_Take_Me_Home_Restless_Road.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Home Country Roads",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Home_Country_Roads_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/04_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/05_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pit Stop (Take Me Home)",
+      "artist": "Lovage",
+      "has_synced": true,
+      "path": "select/06_Pit_Stop_(Take_Me_Home)_Lovage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/07_Take_Me_Home_Cher.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/08_Take_Me_Home_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/09_Take_Me_Home_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me Home (Bonus Track)",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/10_Take_Me_Home_(Bonus_Track)_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/11_Take_Me_Home_Groove_Armada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/12_Take_Me_Home_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Me Home Country Road",
+      "artist": "Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/13_Take_Me_Home_Country_Road_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Ratt",
+      "has_synced": true,
+      "path": "select/14_Take_Me_Home_Ratt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAKE ME HOME",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_TAKE_ME_HOME_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Take Me Home (feat. Bebe Rexha)",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_02_Take_Me_Home_(feat._Bebe_Rexha)_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Take me home",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_03_Take_me_home_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Take Me Home",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_04_Take_Me_Home_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Take Me Home",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_05_Take_Me_Home_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
